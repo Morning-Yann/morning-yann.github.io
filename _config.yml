@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
+paginate: 5
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -409,7 +409,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMzU2Ny8xMDEyMg==
+# livere_uid: MTAyMC8zMzU2Ny8xMDEyMg==
 
 # Baidu Share
 # Available value:
